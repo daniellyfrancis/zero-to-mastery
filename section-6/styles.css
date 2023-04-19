@@ -12,10 +12,23 @@ h2 {
 
 p {
     color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+span {
+    font-size: 5em;
 }
 
 li {
     list-style: none;
     display: inline-block;
     color: antiquewhite;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
 }
